@@ -12,5 +12,4 @@ dependencies {
     testImplementation "org.jetbrains.kotlinx:lincheck:2.14"
     // JUnit dependency for tests
     testImplementation "junit:junit:4.12"
-    implementation "org.jctools:jctools-core:3.3.0"
 }
